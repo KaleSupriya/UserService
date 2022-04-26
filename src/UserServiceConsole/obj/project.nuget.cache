@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4dKLEWS1VhqPzrfAu6sZREd3gOwb4C/E659eoDPmTMV1ybdd6CgfiWceclxf1xhi7DTZFiefeToF3Ms7gUF6Q==",
+  "success": true,
+  "projectFilePath": "C:\\UserService\\src\\UserServiceConsole\\UserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAK143\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
